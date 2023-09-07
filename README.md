@@ -1,2 +1,2 @@
 # Tetris.java
-The source code of an applet for tertis in java
+The source code of an applet of tetris in java
